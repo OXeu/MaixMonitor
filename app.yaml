@@ -1,8 +1,14 @@
 id: monitor
 name: Monitor
-version: 1.0.0
+version: 1.0.7
 author: Xeu
 icon: app.png
 desc: 实时监测RAM、流量情况
 files:
+  - bg.png
+  - down.png
   - main.py
+  - MiSans.ttf
+  - ram.png
+  - temp.png
+  - up.png
